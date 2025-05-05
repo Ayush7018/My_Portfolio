@@ -1,4 +1,4 @@
-<h1>🚀 My Portfolio</h1>
+#🚀 My Portfolio
 
 <p>Welcome to my GitHub portfolio!<br>
 I'm targeting <strong>Full Stack Developer</strong> roles in a reputed organization with opportunities to improve my knowledge and grow my career.</p>
