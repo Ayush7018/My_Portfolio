@@ -1,61 +1,73 @@
-# 🚀 My Portfolio
+<h1>🚀 My Portfolio</h1>
 
-Welcome to my GitHub portfolio!  
-I'm targeting **Full Stack Developer** roles in a reputed organization where I can continuously learn, contribute, and grow.
+<p>Welcome to my GitHub portfolio!<br>
+I'm targeting <strong>Full Stack Developer</strong> roles in a reputed organization where I can continuously learn, contribute, and grow.</p>
 
----
+<hr>
 
-## 🧠 About Me
+<h2>🧠 About Me</h2>
 
-- 💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)
-- 🔧 Skilled in building scalable, maintainable, and responsive web applications
-- 🚀 Passionate about continuous learning and staying updated with industry trends
-- ✅ Proven ability to handle projects from planning to deployment
+<ul>
+  <li>💻 MERN Stack Developer (MongoDB, Express.js, React, Node.js)</li>
+  <li>🔧 Skilled in building scalable, maintainable, and responsive web applications</li>
+  <li>🚀 Passionate about continuous learning and staying updated with industry trends</li>
+  <li>✅ Proven ability to handle projects from planning to deployment</li>
+</ul>
 
----
+<hr>
 
-## 🌟 Technologies I Use
+<h2>🌟 Technologies I Use</h2>
 
-- **HTML5**: Semantic structure and accessibility
-- **CSS3**: Styling and responsive design
-- **JavaScript (ES6+)**: Dynamic functionalities and logic
-- **Bootstrap**: Rapid, responsive design
-- **React.js**: Component-based architecture and SPA development
-- **Node.js** & **Express.js**: Backend APIs and server-side logic
-- **MongoDB**: NoSQL database for scalable data storage
+<ul>
+  <li><strong>HTML5</strong>: Semantic structure and accessibility</li>
+  <li><strong>CSS3</strong>: Styling and responsive design</li>
+  <li><strong>JavaScript (ES6+)</strong>: Dynamic functionalities and logic</li>
+  <li><strong>Bootstrap</strong>: Rapid, responsive design</li>
+  <li><strong>React.js</strong>: Component-based architecture and SPA development</li>
+  <li><strong>Node.js</strong> & <strong>Express.js</strong>: Backend APIs and server-side logic</li>
+  <li><strong>MongoDB</strong>: NoSQL database for scalable data storage</li>
+</ul>
 
----
+<hr>
 
-## 💼 Projects
+<h2>💼 Projects</h2>
 
-### 🔹 MakeMyTrip Clone
-A full-stack web application replicating the travel booking experience of MakeMyTrip.  
-**Frontend**: HTML, CSS, JavaScript, Bootstrap
+<h3>🔹 MakeMyTrip Clone</h3>
+<p>A full-stack web application replicating the travel booking experience of MakeMyTrip.<br>
+<strong>Frontend:</strong> HTML, CSS, JavaScript, Bootstrap</p>
 
-### 🔹 React.js Projects
-A collection of projects built using React.js demonstrating:
-- 🔄 State management
-- 🧩 Reusable components
-- 🌐 API integration
+<h3>🔹 React.js Projects</h3>
+<p>A collection of projects built using React.js demonstrating:</p>
+<ul>
+  <li>🔄 State management</li>
+  <li>🧩 Reusable components</li>
+  <li>🌐 API integration</li>
+</ul>
 
----
+<hr>
 
-## 📈 Skills & Expertise
+<h2>📈 Skills & Expertise</h2>
 
-- 🖥️ **Responsive Web Design** — Optimized for all screen sizes
-- 🌍 **Cross-Browser Compatibility** — Consistent behavior across major browsers
-- 🔄 **Version Control** — Git & GitHub for collaborative development
-- ⚙️ **Frontend Frameworks** — Using Bootstrap for quick UI development
-- 🔗 **API Integration** — Connecting frontend with backend services
+<ul>
+  <li>🖥️ <strong>Responsive Web Design</strong> — Optimized for all screen sizes</li>
+  <li>🌍 <strong>Cross-Browser Compatibility</strong> — Consistent behavior across major browsers</li>
+  <li>🔄 <strong>Version Control</strong> — Git & GitHub for collaborative development</li>
+  <li>⚙️ <strong>Frontend Frameworks</strong> — Using Bootstrap for quick UI development</li>
+  <li>🔗 <strong>API Integration</strong> — Connecting frontend with backend services</li>
+</ul>
 
----
+<hr>
 
-## 📫 Contact Me
+<h2>📫 Contact Me</h2>
 
-I'm always open to exciting projects and collaborations!  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayush7018/)  
-- 📧 [Email](mailto:ayushpandey98070@gmail.com)
+<p>I'm always open to exciting projects and collaborations!</p>
+<ul>
+  <li>💼 <a href="https://www.linkedin.com/in/ayush7018/">LinkedIn</a></li>
+  <li>📧 <a href="mailto:ayushpandey98070@gmail.com">Email</a></li>
+</ul>
 
----
+<hr>
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+<blockquote>
+  “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</blockquote>
